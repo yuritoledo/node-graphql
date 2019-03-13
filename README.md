@@ -1,1 +1,1 @@
-# node-graphql
+# Learning Node / Graphql as backend :)
